@@ -4,7 +4,7 @@
   "main": "index.js",
 "scripts": {
   "build": "npx tsc",
-  "start": "node dist/tuples.js"
+  "start": "node dist/functions.js"
 },
 
   "keywords": [],
